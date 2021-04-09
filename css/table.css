@@ -1,0 +1,49 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+
+.change button{
+	background-color:  #007bff;
+	color: white;
+	border: none;
+	border-radius: 7px;
+	padding: 5px 10px 5px 10px;
+
+
+}
+
+.change button:hover{
+        background-color:#616C6F;
+        color: white;
+}
+
+/*
+.box{
+	background-color: #AFEEEE;
+
+}
+
+.mobile{
+	background-color: #AFEEEE;
+}
+*/
+
+table{
+	letter-spacing: 1.2px;
+	background-color: #007bff;
+}
+
+.about{
+	background-color: #f2f3f4;
+}
+
+
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 1px;
+	}
+}

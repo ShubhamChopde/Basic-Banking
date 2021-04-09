@@ -1,0 +1,61 @@
+.intro{
+	background:#b9f2ff;
+	height: 300px;
+}
+
+.services{
+	padding-top: 50px;
+
+}
+
+.connect{
+	margin-top: 70px;
+}
+
+.connect button{
+	background-color: #1E90FF;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 5px 10px 5px 10px;
+	margin: 5px;
+	width:50%;
+
+}
+
+.dialog{
+	background-color: #FDF5E6;
+	padding-left: 20px;
+}
+
+.act img{
+	height: 450px;
+	padding-left: 25px;
+
+}
+
+.footer{
+	background-color: #EAF0F1;
+}
+
+
+
+@media screen and (max-width: 300px) {
+	.connect{
+	margin-top: 70px;
+}
+
+
+.dialog{
+	background-color: #FDF5E6;
+	padding-left: 20px;
+}
+
+.act img{
+	height: 450px;
+	padding-left: 25px;
+
+}
+
+}

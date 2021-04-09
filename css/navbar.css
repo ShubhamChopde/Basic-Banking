@@ -1,0 +1,25 @@
+.nav-link{
+	margin-right: 15px;
+	color:#FFFFFF;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+
+
+.logo-image{
+	width: 100px;		
+    height: 25px;
+    margin-top: -30px;
+    margin-left: 20px;
+}
+
+.logo-image img{
+	width: 100px;
+	height: 55px;
+}
+
+h2{
+	color: #FFFFFF;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
